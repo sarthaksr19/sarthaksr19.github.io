@@ -1,7 +1,10 @@
 Welcome To My Blog.
 Heya! Hope you are doing Great.
 I am Sarthak Singh Graduate in Bachelor of Technology. fond of various Science and technology. Apart from this i love to indulge myself in cricket and Gym.
-I have done various projects on Python Technology as well as in django framework also. want to know more then contact me. 
+I have done various projects in DJANGO FRAMEWORK using Python Technology. 
+Want to know more then refer to my social sites or contact me.
 
-Have a nice day ahead.
+PS: Sorry for Resume needs to updated with new one.
+
+THANK YOU!!!
 
